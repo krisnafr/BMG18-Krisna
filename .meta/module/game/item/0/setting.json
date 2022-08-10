@@ -1,0 +1,48 @@
+{
+  "data": {
+    "canJoinMidway": false,
+    "fixed_viewPos": {
+      "pos": {
+        "__OBJ_TYPE": "Vector3i"
+      }
+    },
+    "initPos": {
+      "pos": {
+        "x": 24.0,
+        "y": 54,
+        "z": 22.0
+      }
+    },
+    "nowTime": {
+      "h": 7,
+      "m": 40
+    },
+    "player_range": {
+      "max": 1,
+      "min": 1
+    },
+    "startPos": {
+      "map": "map001",
+      "pos": {
+        "x": 24.0,
+        "z": 22.0
+      }
+    },
+    "team": {
+      "showTeamStatusBar": false
+    },
+    "unlimitedPlayTime": true,
+    "waitGoTime": {
+      "value": 20
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "0f2cb042a997279da15fccb6afc6cbfd",
+      "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
+      "triggers.bts": "",
+      "triggers_client.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

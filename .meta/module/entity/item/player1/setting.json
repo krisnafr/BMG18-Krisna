@@ -1,0 +1,56 @@
+{
+  "data": {
+    "_clientScript": [
+      {
+        "path": "client/client_script"
+      }
+    ],
+    "actorModel": {
+      "actorName": {
+        "asset": ""
+      },
+      "girlactor": {
+        "asset": ""
+      }
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true
+    },
+    "AI_home": {
+      "homeSize": 5
+    },
+    "boundingVolume": {
+      "height": 1.7,
+      "radius": 0.43,
+      "type": "Capsule"
+    },
+    "canRevive": true,
+    "damage": 20,
+    "deadAction": {
+      "deathHideTime": {
+        "value": 60
+      },
+      "playDeadAction": "die_front"
+    },
+    "destroyTime": {
+      "value": 20
+    },
+    "dropDamageRatio": 10,
+    "isPlayer": true,
+    "maxHp": 200,
+    "name": {
+      "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
+    },
+    "reviveTime": {
+      "value": 20
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "675118ff59f216baf604f63c3e879060",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true
+    },
+    "AI_home": {
+      "enable": false
+    },
+    "damage": 10,
+    "enableAI": true,
+    "maxHp": 100,
+    "name": {
+      "value": "entity_4cf50b2d-e905-4db3-8798-4a2e4f8e904e"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "82ff9f784d14c40636a8aa84abb227d1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
